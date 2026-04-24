@@ -37,3 +37,9 @@ git add README.md
 ```sh
 git status
 ```
+
+## Para pasar del stanging area al local repo
+
+```sh
+git commit -m "mensaje descriptivo" # -m <----- mensaje
+```
