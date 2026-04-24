@@ -25,3 +25,9 @@ git config --list
 git config --global init.defaultBranch main
 ```
 
+# Para pasar del working directory al staging area (index)
+
+```sh
+git add <nombre-archivo>
+git add README.md
+```
