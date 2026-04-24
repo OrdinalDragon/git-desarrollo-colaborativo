@@ -51,3 +51,15 @@ git log # versión larga
 git log --oneline # versión corta
 ```
 
+## Como ver diferencias entre el working directory y el local repo
+
+```sh
+git diff
+```
+
+## Ver el contenido del commit y quien hizo ese commit
+
+```sh
+git show <hash>
+git show 8f2a
+```
